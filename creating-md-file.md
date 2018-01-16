@@ -1,4 +1,4 @@
-## creating md file:
+## Creating md file
 We write documentation in txt, docx file. 
 Similarly we can write documentation in md file.
 
