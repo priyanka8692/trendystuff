@@ -114,7 +114,7 @@ So by above command we are saying that these new leaves which are integrated in 
 By default we do only git push. git push command automcatically understands that as nothing is given means i have to go to park named origin and make changes in master branch.
 
 ### Commiting directly in remote repo
-Lets say you decide ki i will not make leaves at my home and then add it in my locla tree. Then integrate it in my local tree and then push those new leaves to park tree.
+Lets say you decide ki i will not make leaves at my home and then add it in my local tree. Then integrate it in my local tree and then push those new leaves to park tree.
 
 Instead, I want to directly add new leaves in park tree.
 
